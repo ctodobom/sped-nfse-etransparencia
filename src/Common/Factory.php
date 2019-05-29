@@ -143,7 +143,7 @@ class Factory
             $this->dom->addChild(
                 $this->rps,
                 "nfe:VlIss",
-                '0',
+                '0,00',
                 true
             );
             $this->dom->addChild(
@@ -163,7 +163,7 @@ class Factory
             $this->dom->addChild(
                 $this->rps,
                 "nfe:VlIssRet",
-                '0',
+                '0,00',
                 true
             );
         }
